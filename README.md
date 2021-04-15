@@ -29,7 +29,7 @@ This GitHub repository provides examples of coding in R in SageMaker environment
 3. [Using R Kernel in SageMaker Notebook Instance: End-2-End Example](https://github.com/nickminaie/amazon-sagemaker-r-workshop/tree/main/r_end_2_end)
   This sample Notebook describes how to train, deploy, and retrieve predictions from a machine learning (ML) model using Amazon SageMaker and R. The model predicts abalone age as measured by the number of rings in the shell. The reticulate package will be used as an R interface to Amazon SageMaker Python SDK to make API calls to Amazon SageMaker. The reticulate package translates between R and Python objects, and Amazon SageMaker provides a serverless data science environment to train and deploy ML models at scale.
 
-4. [SageMaker Batch Transform using R Kernel](https://github.com/nickminaie/amazon-sagemaker-r-workshop/tree/main/r-batch-transform)
+4. [SageMaker Batch Transform using R Kernel](https://github.com/nickminaie/amazon-sagemaker-r-workshop/tree/main/r_batch_transform)
     This sample Notebook describes how to conduct batch transform using SageMaker Transformer in R. The notebook uses Abalone dataset and XGBoost regressor algorithm.
 
 5. [Bring Your Own R Algorithm to SageMaker](https://github.com/nickminaie/amazon-sagemaker-r-workshop/tree/main/r_byo_algo)
